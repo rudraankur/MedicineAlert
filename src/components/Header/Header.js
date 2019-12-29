@@ -8,7 +8,7 @@ const Header = (props) => {
 	return (
 		<header>
 			<nav className="navbar navbar-light">
-  				<a className="navbar-brand" href="#">
+  				<a className="navbar-brand" href="/">
     				<img src={logo} alt=""/>
   				</a>
 				<div className="navbar-nav">
